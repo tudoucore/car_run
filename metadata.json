@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Neon Drift: Cyberpunk Racer",
+  "description": "A high-octane 3D infinite racer built with React Three Fiber. Dodge traffic, survive as long as possible, and get real-time post-race analysis from your AI Crew Chief (Gemini).",
+  "requestFramePermissions": []
+}
